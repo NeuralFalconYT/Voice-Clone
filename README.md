@@ -1,3 +1,6 @@
+## Chatterbox-Multilingual
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Voice-Clone/blob/main/Chatterbox_Multilingual.ipynb) <br>
+
 ## VoxCPM
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Voice-Clone/blob/main/VoxCPM_Colab.ipynb) <br>
 
@@ -29,6 +32,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Spark-TTS-Colab/blob/main/MaskGCT_TTS.ipynb) <br>
 
 ## Credit
+Chatbox TTS:<br>
+[Chatbox](https://github.com/chatboxai/chatbox)
+  
 OuteTTS:<br>
 [OuteTTS](https://github.com/edwko/OuteTTS) <br>
 [Llama-OuteTTS-1.0-1B](https://huggingface.co/OuteAI/Llama-OuteTTS-1.0-1B) <br>
