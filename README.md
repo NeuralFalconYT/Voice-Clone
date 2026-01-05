@@ -4,6 +4,13 @@
 ## Chatterbox Multilingual
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Chatterbox-Multilingual/blob/main/Chatterbox_Multilingual.ipynb) <br>
 
+
+## VibeVoice 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/AI-Podcast-Generator/blob/main/VibeVoice.ipynb) <br>
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/AI-Podcast-Generator/blob/main/VibeVoice_Colab.ipynb) <br>
+
+
 ## VoxCPM
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Voice-Clone/blob/main/VoxCPM_Colab.ipynb) <br>
 
@@ -55,7 +62,8 @@ F5-TTS Hindi:<br>
 [F5-TTS Hindi](https://github.com/rumourscape/F5-TTS) <br>
 MaskGCT TTS:<br>
 [maskgct](https://github.com/open-mmlab/Amphion/tree/main/models/tts/maskgct) <br>
-
+VibeVoice:<br>
+[VibeVoice](https://github.com/microsoft/VibeVoice)
 ## ⚠️ Usage Disclaimer  
 
 These voice cloning text-to-speech (TTS) models are strictly intended for **academic, educational, and ethical** applications. Acceptable uses include but are not limited to:  
