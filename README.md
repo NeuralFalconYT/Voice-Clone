@@ -1,5 +1,8 @@
-## Chatterbox-Multilingual
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Voice-Clone/blob/main/Chatterbox_Multilingual.ipynb) <br>
+## Chatterbox Turbo
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Chatterbox-Turbo-Colab/blob/main/Chatterbox_Turbo_Colab.ipynb) <br>
+
+## Chatterbox Multilingual
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Chatterbox-Multilingual/blob/main/Chatterbox_Multilingual.ipynb) <br>
 
 ## VoxCPM
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Voice-Clone/blob/main/VoxCPM_Colab.ipynb) <br>
