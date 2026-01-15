@@ -1,5 +1,12 @@
+## Pocket-TTS
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Voice-Clone/blob/main/Pocket_TTS_Colab.ipynb) <br>
+
+
 ## Chatterbox Turbo
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Chatterbox-Turbo-Colab/blob/main/Chatterbox_Turbo_Colab.ipynb) <br>
+
+
+
 
 ## Chatterbox Multilingual
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Chatterbox-Multilingual/blob/main/Chatterbox_Multilingual.ipynb) <br>
@@ -42,8 +49,12 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Spark-TTS-Colab/blob/main/MaskGCT_TTS.ipynb) <br>
 
 ## Credit
-Chatbox TTS:<br>
-[Chatbox](https://github.com/chatboxai/chatbox)
+
+Pocket TTS:<br>
+[Pocket TTS](https://github.com/kyutai-labs/pocket-tts)
+  
+Chatterbox TTS:<br>
+[Chatterbox](https://github.com/resemble-ai/chatterbox)
   
 OuteTTS:<br>
 [OuteTTS](https://github.com/edwko/OuteTTS) <br>
