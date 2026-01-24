@@ -1,3 +1,7 @@
+## Qwen3-TTS
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Qwen3-TTS-Colab/blob/main/Qwen3_TTS_Colab.ipynb) <br>
+
+
 ## Pocket-TTS
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Voice-Clone/blob/main/Pocket_TTS_Colab.ipynb) <br>
 
@@ -50,6 +54,9 @@
 
 ## Credit
 
+Qwen3 TTS:<br>
+[Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)
+
 Pocket TTS:<br>
 [Pocket TTS](https://github.com/kyutai-labs/pocket-tts)
   
@@ -75,6 +82,7 @@ MaskGCT TTS:<br>
 [maskgct](https://github.com/open-mmlab/Amphion/tree/main/models/tts/maskgct) <br>
 VibeVoice:<br>
 [VibeVoice](https://github.com/microsoft/VibeVoice)
+
 ## ⚠️ Usage Disclaimer  
 
 These voice cloning text-to-speech (TTS) models are strictly intended for **academic, educational, and ethical** applications. Acceptable uses include but are not limited to:  
