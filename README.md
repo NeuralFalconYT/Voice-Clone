@@ -1,3 +1,7 @@
+
+## OmniVoice
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/omnivoice-colab/blob/main/OmniVoice_Colab.ipynb)
+
 ## Qwen3-TTS
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Qwen3-TTS-Colab/blob/main/Qwen3_TTS_Colab.ipynb) <br>
 
@@ -53,6 +57,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Spark-TTS-Colab/blob/main/MaskGCT_TTS.ipynb) <br>
 
 ## Credit
+Qwen3 TTS:<br>
+[OmniVoice](https://github.com/k2-fsa/OmniVoice)
 
 Qwen3 TTS:<br>
 [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)
